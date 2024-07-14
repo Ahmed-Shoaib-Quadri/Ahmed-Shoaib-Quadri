@@ -13,7 +13,7 @@
 <a href="https://www.codechef.com/users/watch_lark_52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="watch_lark_52" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmed040105s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed040105s" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmed-shoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed-shoaib" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Ahmed-Shoaib-Quadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed-shoaib-quadri" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Ahmed_Shoaib_Quadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed-shoaib-quadri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
